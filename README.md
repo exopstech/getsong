@@ -1,1 +1,1 @@
-getsongbpm.com
+BPM data provided by [GetSongBPM.com](https://getsongbpm.com)
